@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work Space\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|E:\\Work Space\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|e:\\work space\\winformsapp1\\winformsapp1\\duplicatefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\duplicatefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|e:\\work space\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|e:\\work space\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|e:\\work space\\winformsapp1\\winformsapp1\\duplicategroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\duplicategroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|e:\\work space\\winformsapp1\\winformsapp1\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|e:\\work space\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|e:\\work space\\winformsapp1\\winformsapp1\\filemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0B49F6-9B8A-4440-B765-6E5D7ABDA5F6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\filemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DuplicateGroup.cs",
+              "DocumentMoniker": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\DuplicateGroup.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DuplicateGroup.cs",
+              "ToolTip": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\DuplicateGroup.cs",
+              "RelativeToolTip": "WinFormsApp1\\DuplicateGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:30:44.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:29:55.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:52:30.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileMetaData.cs",
+              "DocumentMoniker": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\FileMetaData.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FileMetaData.cs",
+              "ToolTip": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\FileMetaData.cs",
+              "RelativeToolTip": "WinFormsApp1\\FileMetaData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:52:27.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\FileHelper.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FileHelper.cs",
+              "ToolTip": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\FileHelper.cs",
+              "RelativeToolTip": "WinFormsApp1\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:52:27.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DuplicateFinder.cs",
+              "DocumentMoniker": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\DuplicateFinder.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DuplicateFinder.cs",
+              "ToolTip": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\DuplicateFinder.cs",
+              "RelativeToolTip": "WinFormsApp1\\DuplicateFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:52:10.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:54:27.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\Work Space\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:54:26.307Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
