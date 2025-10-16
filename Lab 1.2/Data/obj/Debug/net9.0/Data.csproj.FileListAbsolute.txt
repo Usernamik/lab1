@@ -1,0 +1,15 @@
+E:\Work Space\Lab 1.2\Data\bin\Debug\net9.0\Data.deps.json
+E:\Work Space\Lab 1.2\Data\bin\Debug\net9.0\Data.dll
+E:\Work Space\Lab 1.2\Data\bin\Debug\net9.0\Data.pdb
+E:\Work Space\Lab 1.2\Data\bin\Debug\net9.0\Domain.dll
+E:\Work Space\Lab 1.2\Data\bin\Debug\net9.0\Domain.pdb
+E:\Work Space\Lab 1.2\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+E:\Work Space\Lab 1.2\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work Space\Lab 1.2\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+E:\Work Space\Lab 1.2\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+E:\Work Space\Lab 1.2\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+E:\Work Space\Lab 1.2\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+E:\Work Space\Lab 1.2\Data\obj\Debug\net9.0\Data.dll
+E:\Work Space\Lab 1.2\Data\obj\Debug\net9.0\refint\Data.dll
+E:\Work Space\Lab 1.2\Data\obj\Debug\net9.0\Data.pdb
+E:\Work Space\Lab 1.2\Data\obj\Debug\net9.0\ref\Data.dll

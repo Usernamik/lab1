@@ -1,0 +1,37 @@
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba 1.csproj.AssemblyReference.cache
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba_1.MainForm.resources
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba 1.csproj.GenerateResource.cache
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba 1.AssemblyInfoInputs.cache
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba 1.AssemblyInfo.cs
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba 1.csproj.CoreCompileInputs.cache
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Laba 1.exe
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Laba 1.deps.json
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Laba 1.runtimeconfig.json
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Laba 1.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Laba 1.pdb
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\CsvHelper.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\EPPlus.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\EPPlus.Interfaces.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\Newtonsoft.Json.Bson.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\System.Security.Cryptography.Xml.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\System.Text.Encoding.CodePages.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+E:\Work Space\Laba 1\Laba 1\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Text.Encoding.CodePages.dll
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba 1.csproj.Up2Date
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba 1.dll
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\refint\Laba 1.dll
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba 1.pdb
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\Laba 1.genruntimeconfig.cache
+E:\Work Space\Laba 1\Laba 1\obj\Debug\net9.0-windows\ref\Laba 1.dll

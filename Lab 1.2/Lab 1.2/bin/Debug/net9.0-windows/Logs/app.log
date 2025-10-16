@@ -1,0 +1,124 @@
+2025-10-15 02:13:32 [INFO] Application started
+2025-10-15 02:13:41 [INFO] Imported 0 records from E:\Work Space\Ecommerce_Consumer_Behavior_Analysis_Data.csv
+2025-10-15 02:13:50 [INFO] Imported 0 records from E:\Work Space\Ecommerce_Consumer_Behavior_Analysis_Data.csv
+2025-10-15 02:22:02 [INFO] Application started
+2025-10-15 02:22:13 [INFO] Imported 1000 records from E:\Work Space\Ecommerce_Consumer_Behavior_Analysis_Data.csv
+2025-10-15 02:22:39 [INFO] Group by: Gender
+2025-10-15 02:22:41 [INFO] Filter applied: Gender = , Results: 1000
+2025-10-15 16:27:19 [INFO] Application started
+2025-10-15 16:27:30 [INFO] Imported 1000 records from E:\Work Space\Ecommerce_Consumer_Behavior_Analysis_Data.csv
+2025-10-15 16:27:42 [INFO] DOCX report generated: E:\Work Space\Report.docx
+2025-10-15 16:28:36 [INFO] Filter applied: PaymentMethod = , Results: 1000
+2025-10-15 17:33:53 [INFO] Application started
+2025-10-15 17:33:59 [INFO] Imported 1000 records from E:\Work Space\Ecommerce_Consumer_Behavior_Analysis_Data.csv
+2025-10-15 17:36:04 [INFO] Application started
+2025-10-15 17:36:16 [INFO] Imported 1000 records from E:\Work Space\Ecommerce_Consumer_Behavior_Analysis_Data.csv
+2025-10-15 22:21:28 [INFO] Application started
+2025-10-15 22:21:43 [INFO] Imported 1000 records from E:\Work Space\Ecommerce_Consumer_Behavior_Analysis_Data.csv
+2025-10-16 14:55:46 [INFO] Application started
+2025-10-16 15:27:56 [INFO] Application started
+2025-10-16 15:28:08 [ERROR] Error importing file E:\Work Space\customer_feedback_satisfaction.csv: The process cannot access the file 'E:\Work Space\customer_feedback_satisfaction.csv' because it is being used by another process.
+2025-10-16 15:28:59 [INFO] Application started
+2025-10-16 15:29:18 [ERROR] Error importing file E:\Work Space\customer_feedback_satisfaction.csv: The process cannot access the file 'E:\Work Space\customer_feedback_satisfaction.csv' because it is being used by another process.
+2025-10-16 15:35:38 [INFO] Application started
+2025-10-16 15:35:53 [ERROR] Error importing file E:\Work Space\customer_feedback_satisfaction.csv: Failed to import any records. First error: Line 2: The conversion cannot be performed.
+    Text: 'Low'
+    MemberName: 
+    MemberType: 
+    TypeConverter: 'CsvHelper.TypeConversion.DecimalConverter'
+IReader state:
+   ColumnCount: 11
+   CurrentIndex: 8
+   HeaderRecord:
+["CustomerID","Age","Gender","Country","Income","ProductQuality","ServiceQuality","PurchaseFrequency","FeedbackScore","LoyaltyLevel","SatisfactionScore"]
+IParser state:
+   ByteCount: 0
+   CharCount: 172
+   Row: 2
+   RawRow: 2
+   Count: 11
+   RawRecord:
+1,56,Male,UK,83094,5,8,5,Low,Bronze,100.0
+
+
+2025-10-16 15:43:15 [INFO] Application started
+2025-10-16 15:43:23 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 15:45:30 [INFO] Filter applied: Gender = , Results: 38444
+2025-10-16 15:50:03 [INFO] Application started
+2025-10-16 15:50:11 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 15:51:30 [INFO] DOCX report generated: E:\Work Space\Звіт.docx
+2025-10-16 16:22:56 [INFO] Application started
+2025-10-16 16:23:11 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 16:24:06 [INFO] Application started
+2025-10-16 16:24:12 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 16:30:09 [INFO] Application started
+2025-10-16 16:30:31 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 16:30:57 [INFO] DOCX report generated: E:\Work Space\Zvit.docx
+2025-10-16 16:48:43 [INFO] Filter applied: Country = , Results: 38444
+2025-10-16 16:55:57 [INFO] Application started
+2025-10-16 16:56:07 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 17:00:56 [INFO] Application started
+2025-10-16 17:01:03 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 17:02:43 [INFO] Application started
+2025-10-16 17:03:04 [INFO] Imported 1 records from C:\Users\Користувач\Documents\Bibizyan.csv
+2025-10-16 17:03:17 [INFO] Imported 3755 records from E:\Work Space\ds_salaries.csv
+2025-10-16 17:03:27 [INFO] Application started
+2025-10-16 17:03:37 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 17:03:48 [INFO] DOCX report generated: E:\Work Space\Report.docx
+2025-10-16 17:03:57 [INFO] XLSX report generated: E:\Work Space\Report.xlsx
+2025-10-16 17:52:52 [INFO] Application started
+2025-10-16 17:53:09 [INFO] Imported 3755 records from E:\Work Space\ds_salaries.csv
+2025-10-16 18:03:42 [INFO] Application started
+2025-10-16 18:03:50 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 18:04:50 [INFO] DOCX report generated: E:\Work Space\Report.docx
+2025-10-16 18:27:01 [INFO] Application started
+2025-10-16 18:27:20 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 18:36:09 [INFO] Application started
+2025-10-16 18:36:22 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 19:41:21 [INFO] Application started
+2025-10-16 19:41:41 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 19:47:01 [INFO] DOCX report generated: E:\Work Space\Report.docx
+2025-10-16 20:10:08 [INFO] Application started
+2025-10-16 20:10:20 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 20:10:43 [INFO] Filter applied: Gender = , Results: 38444
+2025-10-16 20:10:44 [INFO] Filter applied: Gender = , Results: 38444
+2025-10-16 20:10:59 [INFO] Filter applied: Category = , Results: 38444
+2025-10-16 20:11:00 [INFO] Filter applied: Category = , Results: 38444
+2025-10-16 20:11:50 [INFO] Filter applied: Country = , Results: 38444
+2025-10-16 20:36:31 [INFO] Application started
+2025-10-16 20:48:19 [INFO] Application started
+2025-10-16 20:48:46 [INFO] Imported 0 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 20:48:46 [INFO] Filter applied: No filters, Results: 0
+2025-10-16 20:48:57 [INFO] Imported 0 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 20:48:57 [INFO] Filter applied: No filters, Results: 0
+2025-10-16 20:56:57 [INFO] Application started
+2025-10-16 20:57:10 [INFO] Imported 0 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 20:57:10 [INFO] Filter applied: No filters, Results: 0
+2025-10-16 20:57:27 [INFO] Filter applied: No filters, Results: 0
+2025-10-16 20:57:44 [INFO] Imported 0 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 20:57:44 [INFO] Filter applied: No filters, Results: 0
+2025-10-16 21:02:18 [INFO] Application started
+2025-10-16 21:02:32 [INFO] Imported 0 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 21:02:32 [INFO] Filter applied: No filters, Results: 0
+2025-10-16 21:13:19 [INFO] Application started
+2025-10-16 21:13:28 [INFO] Imported 0 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 21:13:28 [INFO] Filter applied: No filters, Results: 0
+2025-10-16 21:18:53 [INFO] Application started
+2025-10-16 21:19:05 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 21:19:05 [INFO] Filter applied: No filters, Results: 38444
+2025-10-16 21:19:15 [INFO] Filter applied: Gender = Male, Results: 19150
+2025-10-16 21:19:19 [INFO] Filter applied: Gender = Male, Category = Bronze, Results: 6279
+2025-10-16 21:19:41 [INFO] Filter applied: Gender = Male, Category = Silver, Results: 6458
+2025-10-16 21:19:46 [INFO] Filter applied: Gender = Male, Category = Silver, ServiceQuality = Medium, Results: 2538
+2025-10-16 21:19:52 [INFO] Filter applied: Gender = Male, Category = Silver, ServiceQuality = Medium, Loyalty = Medium, Results: 827
+2025-10-16 21:20:02 [INFO] Filter applied: Gender = Male, Category = Silver, ServiceQuality = Medium, Loyalty = Medium, Country contains 'USA', Results: 152
+2025-10-16 21:20:34 [INFO] Filter applied: No filters, Results: 38444
+2025-10-16 21:20:35 [INFO] Filter applied: No filters, Results: 38444
+2025-10-16 21:22:28 [INFO] Application started
+2025-10-16 21:22:37 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 21:22:37 [INFO] Filter applied: No filters, Results: 38444
+2025-10-16 21:43:50 [INFO] Application started
+2025-10-16 21:44:00 [INFO] Imported 38444 records from E:\Work Space\customer_feedback_satisfaction.csv
+2025-10-16 21:44:00 [INFO] Filter applied: No filters, Results: 38444
+2025-10-16 21:44:10 [INFO] DOCX report generated: E:\Work Space\Report.docx
+2025-10-16 21:44:56 [INFO] About dialog shown

@@ -1,0 +1,55 @@
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\Lab 1.2.exe
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\Lab 1.2.deps.json
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\Lab 1.2.runtimeconfig.json
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\Lab 1.2.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\Lab 1.2.pdb
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\ClosedXML.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\CsvHelper.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\HarfBuzzSharp.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\OpenTK.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\OpenTK.GLControl.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\RBush.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\ScottPlot.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\ScottPlot.WinForms.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\SkiaSharp.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\SkiaSharp.HarfBuzz.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\SkiaSharp.Views.Desktop.Common.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\SkiaSharp.Views.WindowsForms.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\Data.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\Domain.dll
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\Domain.pdb
+E:\Work Space\Lab 1.2\Lab 1.2\bin\Debug\net9.0-windows\Data.pdb
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab 1.2.csproj.AssemblyReference.cache
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab_1._2.Form1.resources
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab 1.2.csproj.GenerateResource.cache
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab 1.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab 1.2.AssemblyInfoInputs.cache
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab 1.2.AssemblyInfo.cs
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab 1.2.csproj.CoreCompileInputs.cache
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab 1.2.csproj.Up2Date
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab 1.2.dll
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\refint\Lab 1.2.dll
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab 1.2.pdb
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\Lab 1.2.genruntimeconfig.cache
+E:\Work Space\Lab 1.2\Lab 1.2\obj\Debug\net9.0-windows\ref\Lab 1.2.dll
